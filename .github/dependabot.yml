@@ -72,4 +72,3 @@ updates:
       - "dependencies"
       - "docker"
     open-pull-requests-limit: 5
-
